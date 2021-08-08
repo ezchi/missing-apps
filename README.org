@@ -1,6 +1,6 @@
 * Overwiew
 Some missing pieces.
 
-| Name  | Version | Release Date | Reference                              | Notes |
-|-------+---------+--------------+----------------------------------------+-------|
-| ditaa | v0.9    |   2013-05-10 | [[http://ditaa.sourceforge.net/#download]] |       |
+| Name  | Version | Release Date | Reference                              | Notes             |
+|-------+---------+--------------+----------------------------------------+-------------------|
+| ditaa | v0.11   |              | [[http://ditaa.sourceforge.net/#download]] | Get from homebrew |
