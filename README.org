@@ -1,6 +1,7 @@
 * Overwiew
 Some missing pieces.
 
-| Name  | Version | Release Date | Reference                              | Notes             |
-|-------+---------+--------------+----------------------------------------+-------------------|
-| ditaa | v0.11   |              | [[http://ditaa.sourceforge.net/#download]] | Get from homebrew |
+| Name     | Version   | Release Date | Reference                              | Notes             |
+|----------+-----------+--------------+----------------------------------------+-------------------|
+| ditaa    | v0.11     |              | [[http://ditaa.sourceforge.net/#download]] | Get from homebrew |
+| plantuml | v1.2021.9 |              |                                        | Get from homebrew |
